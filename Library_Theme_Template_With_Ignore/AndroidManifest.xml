@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="zzz.library.theme_holodark_green"
+    package="zzz.library.theme_template_with_ignore"
     android:versionCode="1"
     android:versionName="1.0" >
 
