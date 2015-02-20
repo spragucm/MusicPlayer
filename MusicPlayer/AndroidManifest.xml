@@ -1,11 +1,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.activitytemplate"
+    package="com.example.musicplayer"
     android:versionCode="1"
     android:versionName="1.0" >
 
     <uses-sdk
         android:minSdkVersion="8"
         android:targetSdkVersion="21" />
+    
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
     
 	<application
         android:allowBackup="true"
@@ -20,6 +22,7 @@
             </intent-filter>
         </activity>
         
+        <service android:name="com.example.musicplayer.MusicService" />
     </application>
 
 </manifest>
