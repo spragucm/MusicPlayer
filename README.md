@@ -5,3 +5,5 @@ I did NOT make this, Sue Smith did; I am simply putting it on GitHub for easier 
 this MusicPlayer is at:
 
 http://code.tutsplus.com/tutorials/create-a-music-player-on-android-project-setup--mobile-22764
+
+Great job Sue!
